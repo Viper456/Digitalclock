@@ -1,2 +1,7 @@
 # Digital Clock
-Clock with date using HTML, CSS, SCSS, JS
+Clock with date and awesome box-shadow effect.
+Technologies:
+HTML,
+CSS,
+SCSS,
+JavaScript.
