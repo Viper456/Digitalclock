@@ -1,2 +1,2 @@
-# Digitalclock
-Digital clock with date using HTML+CSS, SCSS, JS
+# Digital Clock
+Clock with date using HTML, CSS, SCSS, JS
