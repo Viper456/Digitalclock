@@ -1,6 +1,6 @@
 # Digital Clock
 Clock with date and awesome box-shadow effect.
-Stack of Technologies:
+Stack of technologies:
 HTML,
 CSS,
 SCSS,
